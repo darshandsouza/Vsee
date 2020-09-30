@@ -12,3 +12,4 @@ Watch videos simultaneously, change and chat.
 - lg
 - mi
 - moto
+-pumpkin
